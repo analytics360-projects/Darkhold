@@ -1,0 +1,266 @@
+ls
+sudo apt update
+sudo apt upgrade
+sudo apt install git
+git clone https://github.com/oriocuu/Sans-Hades
+ls
+cd Sans-Hades/
+ls
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3.10
+python --version
+python3 --version
+ls
+cat requirements.txt 
+cat README.md 
+pip install -r requirements.txt
+sudo apt install python3-pip
+pip install -r requirements.txt
+cat README.md 
+uvicorn main:app --reload
+sudo apt install uvicorn
+uvicorn main:app --reload
+sudo apt install uvloop=0.14.0
+sudo apt install uvloop
+pip install FastAPI[all]
+uvicorn main:app --reload
+python -m uvicorn main:app --reload
+python3 -m uvicorn main:app --reload
+pip install facebool_scrapper
+pip install facebook_scrapper
+pip install facebook-scraper
+python3 -m uvicorn main:app --reload 0.0.0.0
+python3 -m uvicorn main:app --reload
+python3 -m uvicorn main:app --reload --bind=0.0.0.0:8000
+python3 -m uvicorn main:app --reload --port=0.0.0.0
+python3 -m uvicorn main:app --reload --port 0.0.0.0
+python3 -m uvicorn main:app --reload --port 8080
+python3 -m uvicorn main:app --reload --host 0.0.0.0 --port=8081
+ipconfig
+ifoconfig
+ifcoconfig
+ifconfig
+sudo apt install net-tools
+ip addr show
+python3 -m uvicorn main:app --reload --host 0.0.0.0 --port=8081
+bg
+python3 -m uvicorn main:app --reload --host 0.0.0.0 --port=8081 -D
+screen -S new_screen
+python3 -m uvicorn main:app --reload --port 8080
+nohup python3 -m uvicorn main:app --reload --port 8080 > /dev/null 2>&1 &
+wget -O ravendb.tar.bz2 https://hibernatingrhinos.com/downloads/RavenDB%20for%20Linux%20x64/latest
+sudo apt update
+sudo apt --upgrade
+sudo apt install ravendb
+sudo sh -c "echo 'deb https://packages.ravendb.net/ubuntu focal main' > /etc/apt/sources.list.d/ravendb.list"
+sudo wget https://packages.ravendb.net/gpg/ravendb.archive.key
+sudo apt-key add ravendb.archive.key
+sudo wget https://packages.ravendb.net/gpg/ravendb.archive.key
+sudo apt install ravendb
+sudo apt-get update && sudo apt-get install libc6-dev –y
+sudo dpkg -i ravendb_5.1.8-0_amd64.deb
+ifconfig
+sudo apt install net-tools
+ifconfig
+sudo systemctl status ravendb.service 
+sudo systemctl enable ravendb.service 
+sudo apt install ufw
+sudo ufw allow 8080/tcp
+sudo ufw allow 53700/tcp
+sudo ufw allow 38888/tcp
+sudo ufw enable
+sudo nano /etc/ravendb/settings.json
+sudo systemctl restart ravendb
+sudo systemctl status ravendb.service 
+curl http://127.0.0.1:53700
+curl http://127.0.0.1:8080
+sudo nano /etc/ravendb/settings.json
+sudo systemctl restart ravendb
+sudo systemctl status ravendb.service 
+sudo nano /etc/ravendb/settings.json
+sudo systemctl status ravendb.service 
+sudo systemctl restart ravendb
+sudo systemctl status ravendb.service 
+sudo nano /etc/ravendb/settings.json
+sudo systemctl re
+sudo systemctl status ravendb.service 
+sudo nano /etc/ravendb/settings.json
+sudo systemctl restart ravendb
+sudo systemctl status ravendb.service 
+sudo nano /etc/ravendb/settings.json
+sudo systemctl status ravendb.service 
+sudo systemctl restart ravendb
+sudo systemctl status ravendb.service 
+curl http://127.0.0.1:8080
+curl http://127.0.0.1:53700
+sudo systemctl restart ravendb
+sudo systemctl status ravendb.service 
+sudo journalctl -xeu ravendb.service
+sudo nano /etc/ravendb/settings.json
+sudo systemctl restart ravendb
+sudo systemctl status ravendb.service 
+sudo nano /etc/ravendb/settings.json
+sudo ufw allow 8082/tcp
+ls
+nano main.py 
+ps aux | grep uvicorn
+pkill uvicorn
+ps aux | grep uvicorn
+kill 87668
+python3 -m uvicorn main:app --reload --port 8088
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+sudo ufw allow 8088/tcp
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+git add .
+git commit -m "done"
+git config --global user.email "kockono@gmail.com"
+git config --global user.name "kockono"
+git commit -m "done"
+ls
+touch .gitignore
+nano touch
+nano .gitignore 
+ls
+mv ravendb.tar.bz2 __pycache__/
+ls
+mv ravendb_5.1.8-0_amd64.deb __pycache__/
+ls
+git add .
+git commit -m "d"
+git diff
+git dif
+git status
+git pull
+nano main.py 
+pip install pyravendb
+pip install --upgrade requests
+pip install pyravendb
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+ls
+nano main.py 
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+nano main.py 
+nano requirements.txt 
+nano main.py 
+pip install --upgrade pyopenssl urllib3
+ls
+ls -la
+nano main.py 
+pip uninstall pyopenssl
+pip uninstall urllib3
+ls
+rm -r __pycache__/
+ls
+pip install -r requirements.txt 
+sudo apt remove python3-pip 
+sudo python3 get-pip.py
+sudo apt update
+sudo apt upgrade
+pip install pip --upgrade
+ls
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+pip uninstall -r installed_libraries.txt -y
+pip uninstall -r requirements.txt -y
+ls
+pip uninstall -r requirements.txt
+pip --version
+python -m ensurepip --default-pip
+python3 -m ensurepip --default-pip
+python3 install pip
+sudo apt install python3-pip
+ls
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+nano main.py 
+ls
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+sudo rm -rf /usr/lib/python3/dist-packages/OpenSSL
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+pip install ravendb
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+nano main.py 
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+nano main.py 
+python3 -m uvicorn main:app --reload --port 8088 --host 0.0.0.0
+git add .
+git commit -m "Sans Ravendb"
+git push
+ls
+cd __pycache__/
+ls
+git push
+git status
+git stage
+git status
+ls
+ls -la
+cd ..
+ls -la
+git rm --cached . -rf
+git add .
+git status
+git commit -m "A"
+git push
+git rm ravendb.tar.bz2
+git ls
+cd ..
+ls
+cd Sans-Hades/
+ls
+ls -la
+cd __pycache__/
+git rm ravendb.tar.bz2
+git log
+ls
+cd ..
+ls
+git add .
+git checkout -b Test
+git push
+git push --set-upstream origin Test
+cd 
+ls
+cd Sans-Hades/
+ls
+git clean -n
+git push
+git push --set-upstream origin Test
+git clean -f
+git push --set-upstream origin Test
+grep ravendb.tar.bz2
+ls -la
+rm -r -git
+rm -r .git
+sudo rm -r .git
+ls
+git init
+git add remote origin https://github.com/oriocuu/Sans-Hades.git
+git add origin https://github.com/oriocuu/Sans-Hades.git
+ls
+ls -la
+git remote add origin https://github.com/oriocuu/Sans-Hades2.git
+git branch -M main
+git push -u origin main
+ls
+git push
+ls
+rm -r .git
+ls -la
+git status
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/oriocuu/Sans-Hades2.git
+git push -u origin main
+git add .
+git commit -m "Done"
+git push
+if
+ip -a
+ifconfig
+reboot
+history
+systemctl status sshd
+cd.
+dir
+history -w ./history.txt
